@@ -101,7 +101,7 @@ model.load_state_dict(torch.load("your_new_weights.pth", map_location=device))
 ---
 
 ## 📧 联系方式 (Contact)
-本项目由 **[张峻豪](https://github.com/keyandishou)** 独立开发与维护。
+本项目由 **[keyandishou](https://github.com/keyandishou)** 独立开发与维护。
 如您在代码复现、算法探讨或工业落地交流方面有任何疑问，欢迎通过邮件联系：[zjhkira@163.com](mailto:zjhkira@163.com)。
 
 *If you find this project helpful for your research, a star ⭐ would be highly appreciated!*
